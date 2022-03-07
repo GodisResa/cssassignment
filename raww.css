@@ -1,0 +1,51 @@
+#wrapperHeader{
+    position: relative;
+    background-image:url(images/header.png);
+}
+
+#header{
+    left: 50%;
+    margin-left: -500px;
+    background: color: 
+    width:1000px;
+    height:200px;
+    position: centered;
+}
+body {
+    background-color: #eac4b9;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #084b1e;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: inline-block;
+    text-align: center;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  }
+  li a:hover {
+    background-color: rgb(233, 212, 212);
+  }
+   topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  footer{
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #5a96be57;
+  }
